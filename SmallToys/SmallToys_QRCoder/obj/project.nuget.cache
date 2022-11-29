@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "d6gx2+9eJZzfjAHY+THtVvUb0W8Y53une2bFg4frsNiltZOOjvdXxVk0bpHyLni3pR38HK3BcAdvghqqU/cIBQ==",
+  "success": true,
+  "projectFilePath": "D:\\Pirvate\\SmallToys\\SmallToys\\SmallToys_QRCoder\\SmallToys_QRCoder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\执\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\执\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
+    "C:\\Users\\执\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
