@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|c:\\users\\xy3134\\desktop\\ayok.mediatr\\ayok.mediatr\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|solutionrelative:ayok.mediatr\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|c:\\users\\xy3134\\desktop\\ayok.mediatr\\ayok.mediatr\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|solutionrelative:ayok.mediatr\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|c:\\users\\xy3134\\desktop\\ayok.mediatr\\ayok.mediatr\\basedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|solutionrelative:ayok.mediatr\\basedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|c:\\users\\xy3134\\desktop\\ayok.mediatr\\ayok.mediatr\\idomainevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|solutionrelative:ayok.mediatr\\idomainevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|c:\\users\\xy3134\\desktop\\ayok.mediatr\\ayok.mediatr\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|solutionrelative:ayok.mediatr\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|c:\\users\\xy3134\\desktop\\ayok.mediatr\\ayok.mediatr\\handles\\eventhandle2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|solutionrelative:ayok.mediatr\\handles\\eventhandle2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|c:\\users\\xy3134\\desktop\\ayok.mediatr\\ayok.mediatr\\handles\\eventhandle1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|solutionrelative:ayok.mediatr\\handles\\eventhandle1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|c:\\users\\xy3134\\desktop\\ayok.mediatr\\ayok.mediatr\\useraddedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|solutionrelative:ayok.mediatr\\useraddedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|c:\\users\\xy3134\\desktop\\ayok.mediatr\\ayok.mediatr\\usereditedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|solutionrelative:ayok.mediatr\\usereditedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|c:\\users\\xy3134\\desktop\\ayok.mediatr\\ayok.mediatr\\efcore6xdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|solutionrelative:ayok.mediatr\\efcore6xdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|c:\\users\\xy3134\\desktop\\ayok.mediatr\\ayok.mediatr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA35C97-43AB-4A1A-92DF-F09E7EF0039D}|Ayok.Mediatr\\Ayok.Mediatr.csproj|solutionrelative:ayok.mediatr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserAddedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\UserAddedEvent.cs",
+              "RelativeDocumentMoniker": "Ayok.Mediatr\\UserAddedEvent.cs",
+              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\UserAddedEvent.cs",
+              "RelativeToolTip": "Ayok.Mediatr\\UserAddedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:49:31.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Ayok.Mediatr\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Ayok.Mediatr\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:35:11.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventHandle1.cs",
+              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\Handles\\EventHandle1.cs",
+              "RelativeDocumentMoniker": "Ayok.Mediatr\\Handles\\EventHandle1.cs",
+              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\Handles\\EventHandle1.cs",
+              "RelativeToolTip": "Ayok.Mediatr\\Handles\\EventHandle1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:37:30.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventHandle2.cs",
+              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\Handles\\EventHandle2.cs",
+              "RelativeDocumentMoniker": "Ayok.Mediatr\\Handles\\EventHandle2.cs",
+              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\Handles\\EventHandle2.cs",
+              "RelativeToolTip": "Ayok.Mediatr\\Handles\\EventHandle2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:37:49.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\UserInfo.cs",
+              "RelativeDocumentMoniker": "Ayok.Mediatr\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\UserInfo.cs",
+              "RelativeToolTip": "Ayok.Mediatr\\UserInfo.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAC4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:36:39.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Ayok.Mediatr\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\BaseEntity.cs",
+              "RelativeToolTip": "Ayok.Mediatr\\BaseEntity.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:45:13.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDomainEvents.cs",
+              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\IDomainEvents.cs",
+              "RelativeDocumentMoniker": "Ayok.Mediatr\\IDomainEvents.cs",
+              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\IDomainEvents.cs",
+              "RelativeToolTip": "Ayok.Mediatr\\IDomainEvents.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:44:43.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\BaseDbContext.cs",
+              "RelativeDocumentMoniker": "Ayok.Mediatr\\BaseDbContext.cs",
+              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\BaseDbContext.cs",
+              "RelativeToolTip": "Ayok.Mediatr\\BaseDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwBsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:45:57.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserEditedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\UserEditedEvent.cs",
+              "RelativeDocumentMoniker": "Ayok.Mediatr\\UserEditedEvent.cs",
+              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\UserEditedEvent.cs",
+              "RelativeToolTip": "Ayok.Mediatr\\UserEditedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:50:30.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EFCore6xDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\EFCore6xDBContext.cs",
+              "RelativeDocumentMoniker": "Ayok.Mediatr\\EFCore6xDBContext.cs",
+              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\EFCore6xDBContext.cs*",
+              "RelativeToolTip": "Ayok.Mediatr\\EFCore6xDBContext.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:48:25.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\Program.cs",
+              "RelativeDocumentMoniker": "Ayok.Mediatr\\Program.cs",
+              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Mediatr\\Ayok.Mediatr\\Program.cs",
+              "RelativeToolTip": "Ayok.Mediatr\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:31:15.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

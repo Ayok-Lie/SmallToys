@@ -1,0 +1,6 @@
+@Ayok.Mediatr_HostAddress = http://localhost:5159
+
+GET {{Ayok.Mediatr_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
