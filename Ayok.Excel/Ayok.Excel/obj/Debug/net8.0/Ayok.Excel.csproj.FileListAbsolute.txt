@@ -10,3 +10,16 @@ C:\Users\xy3134\Desktop\Ayok.Excel\Ayok.Excel\obj\Debug\net8.0\Ayok.Excel.dll
 C:\Users\xy3134\Desktop\Ayok.Excel\Ayok.Excel\obj\Debug\net8.0\refint\Ayok.Excel.dll
 C:\Users\xy3134\Desktop\Ayok.Excel\Ayok.Excel\obj\Debug\net8.0\Ayok.Excel.pdb
 C:\Users\xy3134\Desktop\Ayok.Excel\Ayok.Excel\obj\Debug\net8.0\ref\Ayok.Excel.dll
+D:\Platform\SmallToys\Ayok.Excel\Ayok.Excel\bin\Debug\net8.0\Ayok.Excel.deps.json
+D:\Platform\SmallToys\Ayok.Excel\Ayok.Excel\bin\Debug\net8.0\Ayok.Excel.dll
+D:\Platform\SmallToys\Ayok.Excel\Ayok.Excel\bin\Debug\net8.0\Ayok.Excel.pdb
+D:\Platform\SmallToys\Ayok.Excel\Ayok.Excel\obj\Debug\net8.0\Ayok.Excel.csproj.AssemblyReference.cache
+D:\Platform\SmallToys\Ayok.Excel\Ayok.Excel\obj\Debug\net8.0\Ayok.Excel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Platform\SmallToys\Ayok.Excel\Ayok.Excel\obj\Debug\net8.0\Ayok.Excel.AssemblyInfoInputs.cache
+D:\Platform\SmallToys\Ayok.Excel\Ayok.Excel\obj\Debug\net8.0\Ayok.Excel.AssemblyInfo.cs
+D:\Platform\SmallToys\Ayok.Excel\Ayok.Excel\obj\Debug\net8.0\Ayok.Excel.csproj.CoreCompileInputs.cache
+D:\Platform\SmallToys\Ayok.Excel\Ayok.Excel\obj\Debug\net8.0\Ayok.Excel.sourcelink.json
+D:\Platform\SmallToys\Ayok.Excel\Ayok.Excel\obj\Debug\net8.0\Ayok.Excel.dll
+D:\Platform\SmallToys\Ayok.Excel\Ayok.Excel\obj\Debug\net8.0\refint\Ayok.Excel.dll
+D:\Platform\SmallToys\Ayok.Excel\Ayok.Excel\obj\Debug\net8.0\Ayok.Excel.pdb
+D:\Platform\SmallToys\Ayok.Excel\Ayok.Excel\obj\Debug\net8.0\ref\Ayok.Excel.dll

@@ -18,19 +18,21 @@ namespace Ayok.Excel.Attributes
         /// <summary>
         /// 类型
         /// </summary>
-        public ExcelColumnEnum Type { get; set; }
+        public ExcelColumnEnum Type { get; set; } = ExcelColumnEnum.常规;
 
         /// <summary>
         /// 排序
         /// </summary>
         public int Order { get; set; } = 999999999;
 
-        public ExcelColumnAttribute(string name,ExcelColumnEnum type, int order)
+        /// <summary>
+        /// 时间格式化
+        /// </summary>
+        public string? DateTimeFormat { get; set; }
+
+        public ExcelColumnAttribute(string name)
         {
             Name = name;
-            Type = type;
-            Order = order;
         }
     }
-
 }

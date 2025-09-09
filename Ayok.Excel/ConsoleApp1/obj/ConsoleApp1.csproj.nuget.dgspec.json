@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\Platform\\SmallToys\\Ayok.Excel\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\Ayok.Excel.csproj": {
+    "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Ayok.Excel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\Ayok.Excel.csproj",
+        "projectUniqueName": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Ayok.Excel.csproj",
         "projectName": "Ayok.Excel",
-        "projectPath": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\Ayok.Excel.csproj",
+        "projectPath": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Ayok.Excel.csproj",
         "packagesPath": "C:\\Users\\xy3134\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\obj\\",
+        "outputPath": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -46,7 +46,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -62,7 +62,7 @@
             },
             "SixLabors.ImageSharp": {
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[3.1.11, )"
             },
             "System.Drawing.Common": {
               "target": "Package",
@@ -85,18 +85,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\Platform\\SmallToys\\Ayok.Excel\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\Platform\\SmallToys\\Ayok.Excel\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\Platform\\SmallToys\\Ayok.Excel\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\xy3134\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\Platform\\SmallToys\\Ayok.Excel\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -119,8 +119,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\Ayok.Excel.csproj": {
-                "projectPath": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\Ayok.Excel.csproj"
+              "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Ayok.Excel.csproj": {
+                "projectPath": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Ayok.Excel.csproj"
               }
             }
           }
@@ -135,7 +135,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -144,6 +144,10 @@
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[9.0.5, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.11, )"
             }
           },
           "imports": [
@@ -162,7 +166,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

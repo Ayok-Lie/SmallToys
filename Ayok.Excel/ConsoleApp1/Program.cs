@@ -1,5 +1,6 @@
 ﻿using Ayok.Excel;
 using Ayok.Excel.Extensions;
+using Ayok.Excel.Services;
 using ConsoleApp1;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -13,7 +14,16 @@ var fileBytes = ExcelUtil.ExportData(excel);
 
 // 生成动态文件名
 var fileName = $"D:\\file\\排除商品范围_{DateTime.Now:yyyyMMddHHmmss}.xlsx";
-using (FileStream fs = new FileStream(fileName, FileMode.Create, FileAccess.Write, FileShare.None, bufferSize: 4096, useAsync: true))
+using (
+    FileStream fs = new FileStream(
+        fileName,
+        FileMode.Create,
+        FileAccess.Write,
+        FileShare.None,
+        bufferSize: 4096,
+        useAsync: true
+    )
+)
 {
     await fs.WriteAsync(fileBytes, 0, fileBytes.Length);
 }

@@ -37,3 +37,9 @@ C:\Users\xy3134\Desktop\Ayok.Excel\ConsoleApp1\bin\Debug\net8.0\Microsoft.Win32.
 C:\Users\xy3134\Desktop\Ayok.Excel\ConsoleApp1\bin\Debug\net8.0\System.Drawing.Common.dll
 C:\Users\xy3134\Desktop\Ayok.Excel\ConsoleApp1\bin\Debug\net8.0\System.Private.Windows.Core.dll
 C:\Users\xy3134\Desktop\Ayok.Excel\ConsoleApp1\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Platform\SmallToys\Ayok.Excel\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Platform\SmallToys\Ayok.Excel\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Platform\SmallToys\Ayok.Excel\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Platform\SmallToys\Ayok.Excel\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Platform\SmallToys\Ayok.Excel\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Platform\SmallToys\Ayok.Excel\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json

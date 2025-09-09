@@ -240,7 +240,7 @@
           }
         }
       },
-      "SixLabors.ImageSharp/3.1.8": {
+      "SixLabors.ImageSharp/3.1.11": {
         "type": "package",
         "compile": {
           "lib/net6.0/SixLabors.ImageSharp.dll": {
@@ -727,10 +727,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "SixLabors.ImageSharp/3.1.8": {
-      "sha512": "8eJkROLGh6DBQLR666q2aOpAaean2puZaZ6Ur9YxoyGzjaZhv8OJSxtnDou54+OXMkXtLUdyQC0so47sOsqZjg==",
+    "SixLabors.ImageSharp/3.1.11": {
+      "sha512": "JfPLyigLthuE50yi6tMt7Amrenr/fA31t2CvJyhy/kQmfulIBAqo5T/YFUSRHtuYPXRSaUHygFeh6Qd933EoSw==",
       "type": "package",
-      "path": "sixlabors.imagesharp/3.1.8",
+      "path": "sixlabors.imagesharp/3.1.11",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -739,7 +739,7 @@
         "lib/net6.0/SixLabors.ImageSharp.dll",
         "lib/net6.0/SixLabors.ImageSharp.xml",
         "sixlabors.imagesharp.128.png",
-        "sixlabors.imagesharp.3.1.8.nupkg.sha512",
+        "sixlabors.imagesharp.3.1.11.nupkg.sha512",
         "sixlabors.imagesharp.nuspec"
       ]
     },
@@ -988,7 +988,7 @@
     "net8.0": [
       "EPPlus >= 8.0.5",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 9.0.5",
-      "SixLabors.ImageSharp >= 3.1.8",
+      "SixLabors.ImageSharp >= 3.1.11",
       "System.Drawing.Common >= 9.0.5"
     ]
   },
@@ -999,11 +999,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\Ayok.Excel.csproj",
+      "projectUniqueName": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Ayok.Excel.csproj",
       "projectName": "Ayok.Excel",
-      "projectPath": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\Ayok.Excel.csproj",
+      "projectPath": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Ayok.Excel.csproj",
       "packagesPath": "C:\\Users\\xy3134\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\obj\\",
+      "outputPath": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1038,7 +1038,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -1054,7 +1054,7 @@
           },
           "SixLabors.ImageSharp": {
             "target": "Package",
-            "version": "[3.1.8, )"
+            "version": "[3.1.11, )"
           },
           "System.Drawing.Common": {
             "target": "Package",
@@ -1077,7 +1077,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

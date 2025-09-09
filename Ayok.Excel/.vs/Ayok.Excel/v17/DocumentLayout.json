@@ -1,58 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\",
+  "WorkspaceRootPath": "D:\\Platform\\SmallToys\\Ayok.Excel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAF19859-C8C7-4195-B51A-29D0472AA93B}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\xy3134\\desktop\\ayok.excel\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAF19859-C8C7-4195-B51A-29D0472AA93B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|d:\\platform\\smalltoys\\ayok.excel\\ayok.excel\\helper\\dataexporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\helper\\dataexporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|c:\\users\\xy3134\\desktop\\ayok.excel\\ayok.excel\\excelutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|d:\\platform\\smalltoys\\ayok.excel\\ayok.excel\\services\\dynamicexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\services\\dynamicexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|d:\\platform\\smalltoys\\ayok.excel\\ayok.excel\\extensions\\excelextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\extensions\\excelextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|d:\\platform\\smalltoys\\ayok.excel\\ayok.excel\\services\\iexcelimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\services\\iexcelimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|d:\\platform\\smalltoys\\ayok.excel\\ayok.excel\\services\\iexcelexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\services\\iexcelexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|d:\\platform\\smalltoys\\ayok.excel\\ayok.excel\\services\\idynamicexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\services\\idynamicexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|d:\\platform\\smalltoys\\ayok.excel\\ayok.excel\\services\\excelimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\services\\excelimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|d:\\platform\\smalltoys\\ayok.excel\\ayok.excel\\services\\excelexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\services\\excelexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|d:\\platform\\smalltoys\\ayok.excel\\ayok.excel\\helper\\excelstylehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\helper\\excelstylehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|d:\\platform\\smalltoys\\ayok.excel\\ayok.excel\\model\\jsonexportsheetsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\model\\jsonexportsheetsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|d:\\platform\\smalltoys\\ayok.excel\\ayok.excel\\model\\jsonexportheaderstyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\model\\jsonexportheaderstyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|d:\\platform\\smalltoys\\ayok.excel\\ayok.excel\\model\\jsonexportfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\model\\jsonexportfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|d:\\platform\\smalltoys\\ayok.excel\\ayok.excel\\model\\jsonexportconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\model\\jsonexportconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|d:\\platform\\smalltoys\\ayok.excel\\ayok.excel\\model\\jsonexportcolumnstyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\model\\jsonexportcolumnstyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|d:\\platform\\smalltoys\\ayok.excel\\ayok.excel\\excelutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\excelutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|c:\\users\\xy3134\\desktop\\ayok.excel\\ayok.excel\\excelexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\excelexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|d:\\platform\\smalltoys\\ayok.excel\\ayok.excel\\helper\\propertieshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\helper\\propertieshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|c:\\users\\xy3134\\desktop\\ayok.excel\\ayok.excel\\attributes\\excelsheetattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\attributes\\excelsheetattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|d:\\platform\\smalltoys\\ayok.excel\\ayok.excel\\helper\\exportfilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\helper\\exportfilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAF19859-C8C7-4195-B51A-29D0472AA93B}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\xy3134\\desktop\\ayok.excel\\consoleapp1\\testdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAF19859-C8C7-4195-B51A-29D0472AA93B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\testdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|c:\\users\\xy3134\\desktop\\ayok.excel\\ayok.excel\\attributes\\excelcolumnattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\attributes\\excelcolumnattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|c:\\users\\xy3134\\desktop\\ayok.excel\\ayok.excel\\attributes\\excelheaderstyleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|d:\\platform\\smalltoys\\ayok.excel\\ayok.excel\\attributes\\excelheaderstyleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\attributes\\excelheaderstyleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|c:\\users\\xy3134\\desktop\\ayok.excel\\ayok.excel\\excelimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\excelimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|c:\\users\\xy3134\\desktop\\ayok.excel\\ayok.excel\\enums\\excelcolumnenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\enums\\excelcolumnenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|c:\\users\\xy3134\\desktop\\ayok.excel\\ayok.excel\\iexcelexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\iexcelexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|c:\\users\\xy3134\\desktop\\ayok.excel\\ayok.excel\\iexcelimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\iexcelimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|c:\\users\\xy3134\\desktop\\ayok.excel\\ayok.excel\\attributes\\excelignoreattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\attributes\\excelignoreattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|c:\\users\\xy3134\\desktop\\ayok.excel\\ayok.excel\\attributes\\excelcolumnstyleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|d:\\platform\\smalltoys\\ayok.excel\\ayok.excel\\attributes\\excelcolumnstyleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\attributes\\excelcolumnstyleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|d:\\platform\\smalltoys\\ayok.excel\\ayok.excel\\attributes\\excelcolumnattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFCD649-6F2A-4872-9E89-BCD904F6F70F}|Ayok.Excel\\Ayok.Excel.csproj|solutionrelative:ayok.excel\\attributes\\excelcolumnattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,7 +89,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 1047,
           "SelectedChildIndex": 5,
           "Children": [
             {
@@ -73,162 +101,306 @@
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExcelUtil.cs",
-              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\ExcelUtil.cs",
-              "RelativeDocumentMoniker": "Ayok.Excel\\ExcelUtil.cs",
-              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\ExcelUtil.cs",
-              "RelativeToolTip": "Ayok.Excel\\ExcelUtil.cs",
-              "ViewState": "AgIAAMEBAAAAAAAAAAAIwNIBAAAMAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ExcelExtensions.cs",
+              "DocumentMoniker": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Extensions\\ExcelExtensions.cs",
+              "RelativeDocumentMoniker": "Ayok.Excel\\Extensions\\ExcelExtensions.cs",
+              "ToolTip": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Extensions\\ExcelExtensions.cs",
+              "RelativeToolTip": "Ayok.Excel\\Extensions\\ExcelExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:36:00.39Z",
+              "WhenOpened": "2025-09-09T02:34:38.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ExcelColumnEnum.cs",
-              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\Enums\\ExcelColumnEnum.cs",
-              "RelativeDocumentMoniker": "Ayok.Excel\\Enums\\ExcelColumnEnum.cs",
-              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\Enums\\ExcelColumnEnum.cs",
-              "RelativeToolTip": "Ayok.Excel\\Enums\\ExcelColumnEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IExcelExportService.cs",
+              "DocumentMoniker": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Services\\IExcelExportService.cs",
+              "RelativeDocumentMoniker": "Ayok.Excel\\Services\\IExcelExportService.cs",
+              "ToolTip": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Services\\IExcelExportService.cs",
+              "RelativeToolTip": "Ayok.Excel\\Services\\IExcelExportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:40:26.525Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ExcelColumnAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\Attributes\\ExcelColumnAttribute.cs",
-              "RelativeDocumentMoniker": "Ayok.Excel\\Attributes\\ExcelColumnAttribute.cs",
-              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\Attributes\\ExcelColumnAttribute.cs",
-              "RelativeToolTip": "Ayok.Excel\\Attributes\\ExcelColumnAttribute.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAawA4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:38:50.645Z"
+              "WhenOpened": "2025-09-09T02:24:42.344Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "DataExportHelper.cs",
+              "DocumentMoniker": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Helper\\DataExportHelper.cs",
+              "RelativeDocumentMoniker": "Ayok.Excel\\Helper\\DataExportHelper.cs",
+              "ToolTip": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Helper\\DataExportHelper.cs",
+              "RelativeToolTip": "Ayok.Excel\\Helper\\DataExportHelper.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAIA9wNUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T05:35:56.997Z",
+              "WhenOpened": "2025-09-09T02:28:13.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DynamicExportService.cs",
+              "DocumentMoniker": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Services\\DynamicExportService.cs",
+              "RelativeDocumentMoniker": "Ayok.Excel\\Services\\DynamicExportService.cs",
+              "ToolTip": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Services\\DynamicExportService.cs",
+              "RelativeToolTip": "Ayok.Excel\\Services\\DynamicExportService.cs",
+              "ViewState": "AgIAANICAAAAAAAAAAAhwNYCAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:20:20.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDynamicExportService.cs",
+              "DocumentMoniker": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Services\\IDynamicExportService.cs",
+              "RelativeDocumentMoniker": "Ayok.Excel\\Services\\IDynamicExportService.cs",
+              "ToolTip": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Services\\IDynamicExportService.cs",
+              "RelativeToolTip": "Ayok.Excel\\Services\\IDynamicExportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:21:40.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExcelImportService.cs",
+              "DocumentMoniker": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Services\\ExcelImportService.cs",
+              "RelativeDocumentMoniker": "Ayok.Excel\\Services\\ExcelImportService.cs",
+              "ToolTip": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Services\\ExcelImportService.cs",
+              "RelativeToolTip": "Ayok.Excel\\Services\\ExcelImportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:24:07.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ExcelSheetAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\Attributes\\ExcelSheetAttribute.cs",
-              "RelativeDocumentMoniker": "Ayok.Excel\\Attributes\\ExcelSheetAttribute.cs",
-              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\Attributes\\ExcelSheetAttribute.cs",
-              "RelativeToolTip": "Ayok.Excel\\Attributes\\ExcelSheetAttribute.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAsAAAAWAAAAAAAAAA==",
+              "Title": "IExcelImportService.cs",
+              "DocumentMoniker": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Services\\IExcelImportService.cs",
+              "RelativeDocumentMoniker": "Ayok.Excel\\Services\\IExcelImportService.cs",
+              "ToolTip": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Services\\IExcelImportService.cs",
+              "RelativeToolTip": "Ayok.Excel\\Services\\IExcelImportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:39:58.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ExcelExportService.cs",
-              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\ExcelExportService.cs",
-              "RelativeDocumentMoniker": "Ayok.Excel\\ExcelExportService.cs",
-              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\ExcelExportService.cs",
-              "RelativeToolTip": "Ayok.Excel\\ExcelExportService.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAcwAkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:33:36.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ExcelHeaderStyleAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\Attributes\\ExcelHeaderStyleAttribute.cs",
-              "RelativeDocumentMoniker": "Ayok.Excel\\Attributes\\ExcelHeaderStyleAttribute.cs",
-              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\Attributes\\ExcelHeaderStyleAttribute.cs",
-              "RelativeToolTip": "Ayok.Excel\\Attributes\\ExcelHeaderStyleAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:39:38.003Z"
+              "WhenOpened": "2025-09-09T02:24:46.829Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ExcelImportService.cs",
-              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\ExcelImportService.cs",
-              "RelativeDocumentMoniker": "Ayok.Excel\\ExcelImportService.cs",
-              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\ExcelImportService.cs",
-              "RelativeToolTip": "Ayok.Excel\\ExcelImportService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Title": "ExcelExportService.cs",
+              "DocumentMoniker": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Services\\ExcelExportService.cs",
+              "RelativeDocumentMoniker": "Ayok.Excel\\Services\\ExcelExportService.cs",
+              "ToolTip": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Services\\ExcelExportService.cs",
+              "RelativeToolTip": "Ayok.Excel\\Services\\ExcelExportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:35:39.621Z"
+              "WhenOpened": "2025-09-09T02:30:31.087Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TestDto.cs",
-              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\ConsoleApp1\\TestDto.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\TestDto.cs",
-              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\ConsoleApp1\\TestDto.cs",
-              "RelativeToolTip": "ConsoleApp1\\TestDto.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAmwCQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "ExcelStyleHelper.cs",
+              "DocumentMoniker": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Helper\\ExcelStyleHelper.cs",
+              "RelativeDocumentMoniker": "Ayok.Excel\\Helper\\ExcelStyleHelper.cs",
+              "ToolTip": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Helper\\ExcelStyleHelper.cs",
+              "RelativeToolTip": "Ayok.Excel\\Helper\\ExcelStyleHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T05:53:38.512Z"
+              "WhenOpened": "2025-09-09T02:28:37.785Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "IExcelExportService.cs",
-              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\IExcelExportService.cs",
-              "RelativeDocumentMoniker": "Ayok.Excel\\IExcelExportService.cs",
-              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\IExcelExportService.cs",
-              "RelativeToolTip": "Ayok.Excel\\IExcelExportService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwEAAAABAAAAAAAAAA==",
+              "Title": "JsonExportSheetSettings.cs",
+              "DocumentMoniker": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Model\\JsonExportSheetSettings.cs",
+              "RelativeDocumentMoniker": "Ayok.Excel\\Model\\JsonExportSheetSettings.cs",
+              "ToolTip": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Model\\JsonExportSheetSettings.cs",
+              "RelativeToolTip": "Ayok.Excel\\Model\\JsonExportSheetSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:34:22.352Z"
+              "WhenOpened": "2025-09-09T02:32:32.001Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "IExcelImportService.cs",
-              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\IExcelImportService.cs",
-              "RelativeDocumentMoniker": "Ayok.Excel\\IExcelImportService.cs",
-              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\IExcelImportService.cs",
-              "RelativeToolTip": "Ayok.Excel\\IExcelImportService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Title": "JsonExportHeaderStyle.cs",
+              "DocumentMoniker": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Model\\JsonExportHeaderStyle.cs",
+              "RelativeDocumentMoniker": "Ayok.Excel\\Model\\JsonExportHeaderStyle.cs",
+              "ToolTip": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Model\\JsonExportHeaderStyle.cs",
+              "RelativeToolTip": "Ayok.Excel\\Model\\JsonExportHeaderStyle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA8wA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:34:47.729Z"
+              "WhenOpened": "2025-09-09T02:32:14.681Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ExcelIgnoreAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\Attributes\\ExcelIgnoreAttribute.cs",
-              "RelativeDocumentMoniker": "Ayok.Excel\\Attributes\\ExcelIgnoreAttribute.cs",
-              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\Attributes\\ExcelIgnoreAttribute.cs",
-              "RelativeToolTip": "Ayok.Excel\\Attributes\\ExcelIgnoreAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAxAAAAAAAAAA==",
+              "Title": "JsonExportField.cs",
+              "DocumentMoniker": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Model\\JsonExportField.cs",
+              "RelativeDocumentMoniker": "Ayok.Excel\\Model\\JsonExportField.cs",
+              "ToolTip": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Model\\JsonExportField.cs",
+              "RelativeToolTip": "Ayok.Excel\\Model\\JsonExportField.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA8wA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:35:15.594Z"
+              "WhenOpened": "2025-09-09T02:31:57.182Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ExcelColumnStyleAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\Attributes\\ExcelColumnStyleAttribute.cs",
-              "RelativeDocumentMoniker": "Ayok.Excel\\Attributes\\ExcelColumnStyleAttribute.cs",
-              "ToolTip": "C:\\Users\\xy3134\\Desktop\\Ayok.Excel\\Ayok.Excel\\Attributes\\ExcelColumnStyleAttribute.cs",
-              "RelativeToolTip": "Ayok.Excel\\Attributes\\ExcelColumnStyleAttribute.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBUAAAAFAAAAAAAAAA==",
+              "Title": "JsonExportConfig.cs",
+              "DocumentMoniker": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Model\\JsonExportConfig.cs",
+              "RelativeDocumentMoniker": "Ayok.Excel\\Model\\JsonExportConfig.cs",
+              "ToolTip": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Model\\JsonExportConfig.cs",
+              "RelativeToolTip": "Ayok.Excel\\Model\\JsonExportConfig.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:39:12.105Z"
+              "WhenOpened": "2025-09-09T02:31:39.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JsonExportColumnStyle.cs",
+              "DocumentMoniker": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Model\\JsonExportColumnStyle.cs",
+              "RelativeDocumentMoniker": "Ayok.Excel\\Model\\JsonExportColumnStyle.cs",
+              "ToolTip": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Model\\JsonExportColumnStyle.cs",
+              "RelativeToolTip": "Ayok.Excel\\Model\\JsonExportColumnStyle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:31:21.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExcelUtil.cs",
+              "DocumentMoniker": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\ExcelUtil.cs",
+              "RelativeDocumentMoniker": "Ayok.Excel\\ExcelUtil.cs",
+              "ToolTip": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\ExcelUtil.cs",
+              "RelativeToolTip": "Ayok.Excel\\ExcelUtil.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAYwIwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:22:21.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PropertiesHelper.cs",
+              "DocumentMoniker": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Helper\\PropertiesHelper.cs",
+              "RelativeDocumentMoniker": "Ayok.Excel\\Helper\\PropertiesHelper.cs",
+              "ToolTip": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Helper\\PropertiesHelper.cs",
+              "RelativeToolTip": "Ayok.Excel\\Helper\\PropertiesHelper.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:29:31.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExportFileHelper.cs",
+              "DocumentMoniker": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Helper\\ExportFileHelper.cs",
+              "RelativeDocumentMoniker": "Ayok.Excel\\Helper\\ExportFileHelper.cs",
+              "ToolTip": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Helper\\ExportFileHelper.cs",
+              "RelativeToolTip": "Ayok.Excel\\Helper\\ExportFileHelper.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAqwHIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:29:02.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExcelHeaderStyleAttribute.cs",
+              "DocumentMoniker": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Attributes\\ExcelHeaderStyleAttribute.cs",
+              "RelativeDocumentMoniker": "Ayok.Excel\\Attributes\\ExcelHeaderStyleAttribute.cs",
+              "ToolTip": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Attributes\\ExcelHeaderStyleAttribute.cs",
+              "RelativeToolTip": "Ayok.Excel\\Attributes\\ExcelHeaderStyleAttribute.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:27:20.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExcelColumnStyleAttribute.cs",
+              "DocumentMoniker": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Attributes\\ExcelColumnStyleAttribute.cs",
+              "RelativeDocumentMoniker": "Ayok.Excel\\Attributes\\ExcelColumnStyleAttribute.cs",
+              "ToolTip": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Attributes\\ExcelColumnStyleAttribute.cs",
+              "RelativeToolTip": "Ayok.Excel\\Attributes\\ExcelColumnStyleAttribute.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:26:58.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExcelColumnAttribute.cs",
+              "DocumentMoniker": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Attributes\\ExcelColumnAttribute.cs",
+              "RelativeDocumentMoniker": "Ayok.Excel\\Attributes\\ExcelColumnAttribute.cs",
+              "ToolTip": "D:\\Platform\\SmallToys\\Ayok.Excel\\Ayok.Excel\\Attributes\\ExcelColumnAttribute.cs",
+              "RelativeToolTip": "Ayok.Excel\\Attributes\\ExcelColumnAttribute.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:25:16.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 640,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
